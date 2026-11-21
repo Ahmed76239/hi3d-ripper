@@ -71,7 +71,7 @@ Hi3D Ripper is a Windows desktop application designed to simplify the process of
 Hi3D Ripper is built and maintained by **Ahmed Hussain**.
 
 - **Official Platform:** [hi3d.ai](https://hi3d.ai)
-- **Webpage** [hi3d-ripper.web.app](https://hi3d-ripper.web.app)
+- **Webpage:** [hi3d-ripper.web.app](https://hi3d-ripper.web.app)
 
 This is an independent tool and is not affiliated with hi3d.ai.
 
@@ -83,6 +83,3 @@ Models remain the property of their original creators. Only download content you
 
 ---
 
-<p align="center">
-  &copy; 2025 hi3d.ripper &middot; local tool &middot; Made By: Ahmed Hussain
-</p>
