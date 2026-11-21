@@ -14,7 +14,7 @@ Hi3D Ripper pulls any hi3d.ai model straight to your machine, optimizes the mesh
 
 You can download the latest installer from the link below:
 
-**[Download Hi3dRipperInstaller.exe](https://github.com/Ahmed76239/hi3d-ripper/releases/download/1.0.0.5/Hi3dRipperInstaller.exe)**
+**[Download Hi3dRipperInstaller.exe](https://github.com/Ahmed76239/hi3d-ripper/releases/download/1.0.0.T/Hi3dRipperInstaller.exe)**
 
 - **Filename:** `Hi3dRipperInstaller.exe`
 - **Version:** `v1.0.0.5`
